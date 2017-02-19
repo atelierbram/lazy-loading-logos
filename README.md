@@ -1,4 +1,5 @@
-# Lazy Loading Logos
+# ![Lazy Loading Logos](https://atelierbram.github.io/lazy-loading-logos/assets/img/svg/logo-lll_456x60.svg)
+
 Lazy load images with javascript by replacing a small inline SVG data URI – with embedded text on the src-tag – with the url of the full sized image stored in a data-attribute on that same image.
 
 Read more about this [in this blogpost](http://atelierbram.github.io/blog/lazy-loading/).

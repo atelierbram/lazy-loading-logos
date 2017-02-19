@@ -3,4 +3,7 @@ Lazy load images with javascript by replacing a small inline SVG data URI – wi
 
 Read more about this [in this blogpost](http://atelierbram.github.io/blog/lazy-loading/).
 
-Go see [the demo](https://atelierbram.github.io/lazy-loading-logos/).
+Go see the demo:
+
+- [here on Github](https://atelierbram.github.io/lazy-loading-logos/)
+- [on Codepen](http://codepen.io/atelierbram/pen/YNoNZw)

@@ -139,4 +139,11 @@ p {
   border-radius: 3px;
 }
 
+header,
+main,
+article,
+footer {
+  display: block;
+}
+
 /*# sourceMappingURL=style.css.map */
